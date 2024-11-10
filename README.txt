@@ -1,40 +1,35 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Willington Renteria - Professional Web Page
+## Description
+This repository contains the source code for my professional web page, showcasing my work and expertise as a Coastal Engineer. The page includes sections on my portfolio, about me, and contact information. It is designed to provide an overview of my research and professional accomplishments.
 
+## Live Website
+You can view the live site at:
+https://wrenteria.github.io
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+## Features
+Portfolio Section: Highlights recent projects and research.
+About Me: Shares my background and expertise.
+Contact Information: Provides links to my social media profiles and email.
+Responsive Design: Optimized for desktop and mobile devices.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+## Credits
+This web page was built using the Prologue template from HTML5 UP.
 
-http://ineedchemicalx.deviantart.com/
+Original Template Author: AJ from HTML5 UP
+License: Creative Commons Attribution 3.0 License (CCA 3.0)
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+## Modifications
+The template has been customized to include:
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+My personal content (name, projects, biography).
+Custom portfolio items and social media links.
+Updated footer with personalized copyright details.
 
-(* = Not included)
+## Usage
+Feel free to clone or fork this repository for personal use. However, please retain the attribution to HTML5 UP as per the template’s license.
 
-AJ
-aj@lkn.io | @ajlkn
+## Contact
+If you have questions or would like to collaborate, feel free to reach out:
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Email: wjrenteria@gmail.com
+Website: https://wrenteria.github.io
