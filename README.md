@@ -1,4 +1,4 @@
-# Willington Renter\'ia - Professional Web Page
+# Willington Rentería - Professional Web Page
 ## Description
 This repository contains the source code for my professional web page, showcasing my work and expertise as a Coastal Engineer. The page includes sections on my portfolio, about me, and contact information. It is designed to provide an overview of my research and professional accomplishments.
 
