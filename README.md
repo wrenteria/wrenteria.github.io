@@ -1,35 +1,28 @@
-# Willington Rentería - Professional Web Page
-## Description
-This repository contains the source code for my professional web page, showcasing my work and expertise as a Coastal Engineer. The page includes sections on my portfolio, about me, and contact information. It is designed to provide an overview of my research and professional accomplishments.
+# Willington Renteria Website (al-folio)
 
-## Live Website
-You can view the live site at:
-https://wrenteria.github.io
+This repository contains the source code for my personal academic website, built with the [al-folio](https://github.com/alshedivat/al-folio) Jekyll framework.
 
-## Features
-Portfolio Section: Highlights recent projects and research.
-About Me: Shares my background and expertise.
-Contact Information: Provides links to my social media profiles and email.
-Responsive Design: Optimized for desktop and mobile devices.
+## Live site
 
-## Credits
-This web page was built using the Prologue template from HTML5 UP.
+- https://wrenteria.github.io
 
-Original Template Author: AJ from HTML5 UP
-License: Creative Commons Attribution 3.0 License (CCA 3.0)
+## Main sections
 
-## Modifications
-The template has been customized to include:
+- About
+- Projects
+- Articles
+- Gallery
 
-My personal content (name, projects, biography).
-Custom portfolio items and social media links.
-Updated footer with personalized copyright details.
+## Local development
 
-## Usage
-Feel free to clone or fork this repository for personal use. However, please retain the attribution to HTML5 UP as per the template’s license.
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-## Contact
-If you have questions or would like to collaborate, feel free to reach out:
+Then open `http://127.0.0.1:4000`.
 
-Email: wjrenteria@gmail.com
-Website: https://wrenteria.github.io
+## Notes
+
+- Content is maintained in English.
+- Blog posts are intentionally omitted from this site version.
