@@ -29,4 +29,4 @@ Willington developed CelerisAI, a differentiable solver that integrates traditio
 
 He also developed Differentiable Physics-Based Inversion, a method that leverages automatic differentiation (AD) for gradient-based data optimization, allowing real-time correction of underwater topography through assimilation of sea-surface data.
 
-Originally from Ecuador, Willington served as the head of the Oceanography Department and the Tsunami Warning Center at the Oceanographic Institute of the Navy. He holds a Master's degree in Oceanography from Texas A&M University and is dedicated to developing \"digital twins\" of the nearshore environment to enhance coastal hazard monitoring and management.
+Originally from Ecuador, Willington served as the head of the Oceanography Department and the Tsunami Warning Center at the Oceanographic Institute of the Navy. He holds a Master’s degree in Oceanography from Texas A&M University and is dedicated to developing digital twins of the nearshore environment. His work aims to enhance coastal hazard monitoring and management, contributing to coastal resilience and reducing the effects of natural hazards originating from the ocean.
