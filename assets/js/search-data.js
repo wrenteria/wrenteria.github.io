@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "projects-celerisai",
+        },{id: "nav-news",
+          title: "news",
+          description: "Public engagement, interviews, institutional appearances, and media mentions.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "news-interviewed-about-la-nina-in-ecuador-a-climate-pattern-that-receives-less-public-attention-despite-its-importance-for-the-region-watch-the-interview",
+          title: 'Interviewed about La Nina in Ecuador, a climate pattern that receives less public...',
+          description: "",
+          section: "News",},{id: "news-discussed-the-el-nino-event-in-ecuador-and-its-implications-for-coastal-communities-watch-the-full-interview",
+          title: 'Discussed the El Nino event in Ecuador and its implications for coastal communities....',
+          description: "",
+          section: "News",},{id: "news-shared-my-perspective-on-the-historic-cop28-agreement-to-strengthen-global-climate-action-watch-the-interview",
+          title: 'Shared my perspective on the historic COP28 agreement to strengthen global climate action....',
+          description: "",
+          section: "News",},{id: "news-invited-by-ecuador-s-national-assembly-to-provide-technical-input-on-the-need-to-protect-breaking-waves-along-the-ecuadorian-coast-read-the-assembly-report",
+          title: 'Invited by Ecuador’s National Assembly to provide technical input on the need to...',
+          description: "",
+          section: "News",},{id: "news-ecuador-approved-legislation-to-protect-coastal-breaking-waves-incorporating-several-of-my-technical-recommendations-watch-my-full-intervention-before-the-national-assembly-commission",
+          title: 'Ecuador approved legislation to protect coastal breaking waves, incorporating several of my technical...',
+          description: "",
+          section: "News",},{id: "projects-celerisai",
           title: 'CelerisAI',
           description: "Differentiable coastal hydrodynamics and AI for nearshore inverse problems.",
           section: "Projects",handler: () => {
